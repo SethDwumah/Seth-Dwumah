@@ -1,0 +1,13 @@
+[
+  {
+    "id": "SES0001",
+    "course": "PipeSim",
+    "lecturer": "Lab Admin",
+    "date": "2026-03-03",
+    "start_time": "09:00",
+    "end_time": "11:00",
+    "max_students": 20,
+    "notes": "",
+    "created_by": "ADMIN001"
+  }
+]

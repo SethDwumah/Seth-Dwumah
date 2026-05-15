@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "label": "PC-01",
+    "status": "available"
+  },
+  {
+    "id": 2,
+    "label": "PC-02",
+    "status": "available"
+  },
+  {
+    "id": 3,
+    "label": "PC-03",
+    "status": "available"
+  },
+  {
+    "id": 4,
+    "label": "PC-04",
+    "status": "available"
+  },
+  {
+    "id": 5,
+    "label": "PC-05",
+    "status": "available"
+  },
+  {
+    "id": 6,
+    "label": "PC-06",
+    "status": "available"
+  },
+  {
+    "id": 7,
+    "label": "PC-07",
+    "status": "available"
+  },
+  {
+    "id": 8,
+    "label": "PC-08",
+    "status": "available"
+  },
+  {
+    "id": 9,
+    "label": "PC-09",
+    "status": "available"
+  },
+  {
+    "id": 10,
+    "label": "PC-10",
+    "status": "available"
+  },
+  {
+    "id": 11,
+    "label": "PC-11",
+    "status": "available"
+  },
+  {
+    "id": 12,
+    "label": "PC-12",
+    "status": "available"
+  },
+  {
+    "id": 13,
+    "label": "PC-13",
+    "status": "available"
+  },
+  {
+    "id": 14,
+    "label": "PC-14",
+    "status": "available"
+  },
+  {
+    "id": 15,
+    "label": "PC-15",
+    "status": "available"
+  },
+  {
+    "id": 16,
+    "label": "PC-16",
+    "status": "available"
+  },
+  {
+    "id": 17,
+    "label": "PC-17",
+    "status": "available"
+  },
+  {
+    "id": 18,
+    "label": "PC-18",
+    "status": "available"
+  },
+  {
+    "id": 19,
+    "label": "PC-19",
+    "status": "available"
+  },
+  {
+    "id": 20,
+    "label": "PC-20",
+    "status": "available"
+  }
+]

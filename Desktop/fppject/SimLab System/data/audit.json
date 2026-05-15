@@ -1,0 +1,23 @@
+[
+  {
+    "id": "A00001",
+    "actor": "ADMIN002",
+    "action": "REGISTER",
+    "detail": "role=admin",
+    "timestamp": "2026-03-02 23:55:21.069102"
+  },
+  {
+    "id": "A00002",
+    "actor": "ADMIN002",
+    "action": "LOGIN",
+    "detail": "",
+    "timestamp": "2026-03-02 23:56:11.128274"
+  },
+  {
+    "id": "A00003",
+    "actor": "ADMIN002",
+    "action": "LOGOUT",
+    "detail": "",
+    "timestamp": "2026-03-02 23:58:21.862278"
+  }
+]

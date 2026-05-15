@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ADMIN001",
+    "name": "Lab Admin",
+    "email": "admin@lab.edu",
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin"
+  },
+  {
+    "id": "LEC001",
+    "name": "Dr. Mensah",
+    "email": "mensah@lab.edu",
+    "password": "e09a46489b39fc28b3813b1101afc8300b59322474104431216f91cf774c306b",
+    "role": "lecturer"
+  },
+  {
+    "id": "STU001",
+    "name": "Kofi Asante",
+    "email": "kofi@lab.edu",
+    "password": "c079b93d71c13c8b44e0d8e55abbdf1fe006e01f67a8b95c45500fb0df3598f8",
+    "role": "student"
+  },
+  {
+    "id": "ADMIN002",
+    "name": "Seth Dwumah",
+    "email": "sethdwumah9@gmail.com",
+    "password": "382d329f128d9c5beb16182ced3da8488fe5559a313b2fdaa2e1cfdcaae6c53e",
+    "role": "admin",
+    "security_q": "What city were you born in?",
+    "security_a": "e308ba7375575b7a3aa05f10ce7807e2dc9e9bddf2201a34284a337288fac519"
+  }
+]

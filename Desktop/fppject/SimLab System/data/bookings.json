@@ -1,0 +1,12 @@
+[
+  {
+    "id": "BK0001",
+    "student_id": "STU001",
+    "student_name": "Kofi Asante",
+    "date": "2026-03-02",
+    "time_slot": "15:00 \u2013 16:00",
+    "purpose": "Please I have PipeSim Assignment and I dont have a laptop so i want to come to the lab and use one lab machine to do my assignment.",
+    "status": "approved",
+    "created_at": "2026-03-02 23:34:21.632189"
+  }
+]
